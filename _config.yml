@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://ca.slack-edge.com/ERXBAD0AX-U03UM3N6ZPY-19f750d9c188-512
 
 # boolean type, the global switch for ToC in posts.
 toc: true

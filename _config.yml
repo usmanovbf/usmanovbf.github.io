@@ -14,14 +14,14 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Europe/Moscow
+timezone: Europe/Istanbul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Bulat Usmanov                          # the main title
 
-tagline: The IT blog   # it will display as the sub-title
+tagline: The personal IT blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Solutions Architecture, Software Engineering, etc.

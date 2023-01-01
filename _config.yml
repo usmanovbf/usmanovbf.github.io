@@ -21,7 +21,7 @@ timezone:
 
 title: Bulat Usmanov                          # the main title
 
-tagline: The blog   # it will display as the sub-title
+tagline: The IT blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Solutions Architecture, Software Engineering, etc.
